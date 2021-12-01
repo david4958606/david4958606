@@ -12,8 +12,8 @@ My GPG Public Key:
 Fingerprint: 5E81 652F 7720 994F EFC0  14DD 3629 9CA2 57BB 07A4
 Public Key Server: https://keys.openpgp.org/vks/v1/by-fingerprint/5E81652F7720994FEFC014DD36299CA257BB07A4
 ```
-![My GitHub stats](https://github-status.kirinou.top/api?username=david4958606&count_private=true&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-status.kirinou.top/api/top-langs/?username=david4958606&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-stats.kirinou.top/api?username=david4958606&count_private=true&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-stats.kirinou.top/api/top-langs/?username=david4958606&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **david4958606/david4958606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
