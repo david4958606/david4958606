@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/static/v1?&logo=telegram&label=telegram&message=@ouutou&color=blue)](https://t.me/ouutou)
 [![email](https://img.shields.io/static/v1?&logo=microsoftoffice&logoColor=D83B01&label=email&message=david.wang@kirinou.top&color=D83B01)](mailto:david.wang@kirinou.top)
 [![Student Ambassadors](https://img.shields.io/static/v1?&logo=microsoft&logoColor=blue&label=Microsoft%20Learn%20Student%20Ambassadors&message=david.wang@studentambassadors.com&color=blue)](mailto:david.wang@studentambassadors.com)
-[![Webpage](https://img.shields.io/static/v1?&label=Webpage&message=www.kirinou.top&color=66ccff)](https://www.kirinou.top)
+[![Webpage](https://img.shields.io/static/v1?&label=Webpage&message=blog.davidwang.org&color=66ccff)](https://blog.davidwang.org)
 [![BiliBili](https://img.shields.io/static/v1?&logo=bilibili&logoColor=00a1d6&label=BiliBli&message=@David_Y_Wang&color=00a1d6)](https://space.bilibili.com/3788061)
 
 My GPG Public Key:
