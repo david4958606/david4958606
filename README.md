@@ -8,7 +8,7 @@
     <a href="https://space.bilibili.com/3788061"><img src="https://img.shields.io/static/v1?&logo=bilibili&logoColor=00a1d6&label=BiliBli&message=@David_Y_Wang&color=00a1d6"></a>
 </div>
 
-- i18n: zh / en / ja (learning) / it (learning)
+- i18n: zh / en / ja (learning)
 - Working time: 1000 - 2400 CST
 
 My GPG Public Key:
