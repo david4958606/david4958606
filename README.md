@@ -3,13 +3,12 @@
 <div align="center">
     <a href="mailto:david.wang@kirinou.top"><img src="https://img.shields.io/static/v1?&logo=microsoftoffice&logoColor=D83B01&label=E-mail&message=david.wang@kirinou.top&color=D83B01" alt="E-mail"></a>
     <a href="https://t.me/ouutou"><img src="https://img.shields.io/static/v1?&logo=telegram&label=telegram&message=@ouutou&color=blue" alt="Telegram"></a>
-    <a href="mailto:david.wang@studentambassadors.com"><img src="https://img.shields.io/static/v1?&logo=microsoft&logoColor=blue&label=Microsoft%20Learn%20Student%20Ambassadors&message=david.wang@studentambassadors.com&color=blue" alt="Microsoft Learn Student Ambassadors"></a>
     <a href="blog.davidwang.org"><img src="https://img.shields.io/static/v1?&label=Blog&message=blog.davidwang.org&color=66ccff" alt="Blog">
     <a href="https://space.bilibili.com/3788061"><img src="https://img.shields.io/static/v1?&logo=bilibili&logoColor=00a1d6&label=BiliBli&message=@David_Y_Wang&color=00a1d6"></a>
 </div>
 
 - i18n: zh / en / ja (learning)
-- Working time: 1000 - 2400 CST
+- Working time: 0900 - 2100 CST
 
 My GPG Public Key:
 
