@@ -3,7 +3,7 @@
 <div align="center">
     <a href="mailto:david.wang@kirinou.top"><img src="https://img.shields.io/static/v1?&logo=microsoftoffice&logoColor=D83B01&label=E-mail&message=david.wang@kirinou.top&color=D83B01" alt="E-mail"></a>
     <a href="https://t.me/ouutou"><img src="https://img.shields.io/static/v1?&logo=telegram&label=telegram&message=@ouutou&color=blue" alt="Telegram"></a>
-    <a href="blog.davidwang.org"><img src="https://img.shields.io/static/v1?&label=Blog&message=blog.davidwang.org&color=66ccff" alt="Blog">
+    <a href="https://blog.davidwang.org"><img src="https://img.shields.io/static/v1?&label=Blog&message=blog.davidwang.org&color=66ccff" alt="Blog">
     <a href="https://space.bilibili.com/3788061"><img src="https://img.shields.io/static/v1?&logo=bilibili&logoColor=00a1d6&label=BiliBli&message=@David_Y_Wang&color=00a1d6"></a>
 </div>
 
