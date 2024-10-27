@@ -8,7 +8,7 @@
 </div>
 
 - i18n: zh / en / ja (learning)
-- Working time: 0900 - 2100 CST
+- Working time: 1100 - 2100 CST
 
 My GPG Public Key:
 
