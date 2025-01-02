@@ -15,6 +15,9 @@ My GPG Public Key:
 ```text
 Fingerprint: 5E81 652F 7720 994F EFC0  14DD 3629 9CA2 57BB 07A4
 Public Key Server: https://keys.openpgp.org/vks/v1/by-fingerprint/5E81652F7720994FEFC014DD36299CA257BB07A4
+
+Fingerprint: 8B0E 2EE1 5ABA 0DF1 27F8 5793 4398 255C 96F7 09AA
+Public Key Server: https://keys.openpgp.org/vks/v1/by-fingerprint/8B0E2EE15ABA0DF127F857934398255C96F709AA
 ```
 
 ![My GitHub stats](https://github-stats.kirinou.top/api?username=david4958606&count_private=true&show_icons=true&theme=github_dark)
