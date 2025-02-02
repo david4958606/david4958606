@@ -20,7 +20,7 @@ Fingerprint: 8B0E 2EE1 5ABA 0DF1 27F8 5793 4398 255C 96F7 09AA
 Public Key Server: https://keys.openpgp.org/vks/v1/by-fingerprint/8B0E2EE15ABA0DF127F857934398255C96F709AA
 ```
 
-![My GitHub stats](https://github-stats.kirinou.top/api?username=david4958606&show_icons=true&theme=github_dark)
+![My GitHub stats](https://github-stats.kirinou.top/api?username=david4958606&theme=github_dark&include_all_commits=true)
 
 <!--
 **david4958606/david4958606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
